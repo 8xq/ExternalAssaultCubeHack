@@ -1,6 +1,6 @@
 # ExternalAssaultCubeHack
 
-This is a very basic external C# hack for "Assault cube" using memory.dll , this project is simply for learning about game hacking and using "Cheat engine" , there is a chance that the offsts might change and cause the program to not work in the future.
+This is a very basic external C# hack for "Assault cube" using memory.dll , this project is simply for learning about game hacking and using "Cheat engine" , there is a chance that the offsts might change and cause the program to not work in the future. If you plan to use the offsets in cheat engine make sure you also add the base address when needed.
 
 ![Alt Text](https://media.giphy.com/media/upF7gdOEE7E9KXyVpF/giphy.gif)
 
