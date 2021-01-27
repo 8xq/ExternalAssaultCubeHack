@@ -30,7 +30,8 @@ This is a very basic external C# hack for "Assault cube" using memory.dll , this
 ```
 1 - ESP
 2 - Aimbot
-3 - Fly
+3 - Fly hack (toggle)
+4 - Teleport to kill
 ```
 
 
