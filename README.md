@@ -26,6 +26,15 @@ This is a very basic external C# hack for "Assault cube" using memory.dll , this
 9 - Remove crossair 
 ```
 
+# Pending
+```
+1 - ESP
+2 - Aimbot
+3 - Fly
+```
+
+
+
 # Dependencies
 [Memory.dll](https://www.nuget.org/packages/Memory.dll.x86/)
 
