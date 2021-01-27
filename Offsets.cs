@@ -14,6 +14,7 @@ namespace AssaultCube_trainer_v1
         public static string DualPistolOffset = "10C";
         public static string Crosshair = "0x50F20C";
         public static string Recoil = "0x4EE444";
+        public static string PlayerCounter = "0x50F500";
 
         public static string ARammo = "00109B74,150";
         public static string SMGammo = "00109B74,148";
